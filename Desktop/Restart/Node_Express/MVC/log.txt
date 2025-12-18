@@ -1,0 +1,20 @@
+
+1765540940219:::1 GET: /api/users
+
+1765540967985:::1 POST: /api/users
+
+1765540979410:::1 GET: /api/users
+
+1765541031585:::1 POST: /api/users
+
+1765541045097:::1 GET: /api/users
+
+1765541196635:::1 POST: /api/users
+
+1765541253066:::1 GET: /api/users/693c054c8198b5d5f4484d79'
+
+1765541257396:::1 GET: /api/users/693c054c8198b5d5f4484d79
+
+1765541306048:::1 POST: /api/users
+
+1765541316460:::1 GET: /api/users

@@ -1,0 +1,13 @@
+//routes  >>  rest api - json >> get /hat -list all users //
+/*GET /users/l
+GET /users/2
+
+dynamic user: get/api/users/:id
+— Get the user with ID 1
+- Get the user with ID 2
+
+POST /users/- crate new user
+
+- Create new user
+PATCH /users/l=> - Edit the user with ID 1
+DELETE /users/l => - Delete the User with ID 1 */
